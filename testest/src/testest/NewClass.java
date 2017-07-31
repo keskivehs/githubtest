@@ -13,3 +13,4 @@ public class NewClass {
     //jeg er så glad idag
     
 }
+
