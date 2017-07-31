@@ -10,5 +10,6 @@ package testest;
  * @author kjel0737
  */
 public class NewClass {
+    //jeg er så glad idag
     
 }
